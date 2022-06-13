@@ -1,0 +1,38 @@
+/* Box Dimensions/Properties */
+.tradingcard {
+  width: 500px;
+  border: 15px solid #DCDCDC;
+  box-shadow: 10px 10px 5px 1px #EBEBEB;
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+}
+
+.infobox {
+  width: 500px;
+  border: 1px solid #DCDCDC;
+  padding-right: .25em;
+  padding-left: .25em;
+}
+
+/* Image */
+.animalPicture {
+  width: 500px;
+  height: 400px;
+  padding-bottom: 2em;
+}
+
+/* Interesting Fact */
+.funfact {
+  font-style: italic;
+}
+
+/* List Information */
+.list-info{
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+span {
+  font-weight: bold;
+}
